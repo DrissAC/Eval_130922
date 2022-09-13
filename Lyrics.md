@@ -1,6 +1,7 @@
 
 # L'Ecole du micro d'argent / IAM
 
+## Choeurs
 L'École du micro d'argent
 
 L'École du micro d'argent
@@ -15,7 +16,7 @@ L'École du micro d'argent
 
 L'École du micro d'argent
 
-Shurik'n
+## Shurik'n
 
 Assis en tailleur, voilà des heures que je médite
 
@@ -85,9 +86,9 @@ L'École du micro d'argent
 
 ## Akhenaton
 
-Mon sabre scintille, je médite accroupi sous les branches d'un saulePleure,
+Mon sabre scintille, je médite accroupi sous les branches d'un saule Pleure,
 
-je défendsl'honneur de mon école,fils
+je défends l'honneur de mon école,fils
 
 Le troisième œil scrute le terrain,la tactique
 
@@ -101,7 +102,7 @@ Donc je me dresse dans des cliquetis,bardé d'armes
 
 J'ai une armée entière sous le charme
 
-Prête à mourir, à lagloire de mon étendard
+Prête à mourir, à la gloire de mon étendard
 
 J'ai rassemblé la clique des valeureux guerriers barbares
 
@@ -109,7 +110,7 @@ Dare-dare j'ai envoyé paître les lettres
 
 Pourchassé les traîtres, selon l'enseignement de mes maîtres
 
-Sansrelâche, je crache des cendres
+Sans relâche, je crache des cendres
 
 Et poursuivrai les massacres jusqu'à ce que le nom d'AKH soit légende
 
