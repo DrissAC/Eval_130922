@@ -1,12 +1,7 @@
 
 # L'Ecole du micro d'argent / IAM
 
-<<<<<<< HEAD
-## choeur
-
-=======
 ## Choeurs
->>>>>>> 34126bb95edafa15383bc812af24006ae7275f81
 L'École du micro d'argent
 
 L'École du micro d'argent
@@ -67,7 +62,7 @@ Mes griffes gravent les couleurs de l'Empire
 
 Plus grand que celui d'Alexandre dont je suis le défenseur
 
-## choeur
+## Choeurs
 
 L'École du micro d'argent
 
@@ -135,7 +130,7 @@ Délégué pour mettre un terme à ces horreurs
 
 Tel est mon labeur, tu sais de qui je défends l'honneur
 
-## choeur
+## Choeurs
 
 L'École du micro d'argent
 
