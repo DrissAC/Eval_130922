@@ -59,3 +59,25 @@ Je sens l'esprit du félin m'envahir
 Mes griffes gravent les couleurs de l'Empire
 
 Plus grand que celui d'Alexandre dont je suis le défenseur
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
