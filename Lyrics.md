@@ -1,7 +1,7 @@
 
 # L'Ecole du micro d'argent / IAM
 
-L'École du micro d'argent
+## choeur
 
 L'École du micro d'argent
 
@@ -15,7 +15,9 @@ L'École du micro d'argent
 
 L'École du micro d'argent
 
-Shurik'n
+L'École du micro d'argent
+
+## Shurik'n
 
 Assis en tailleur, voilà des heures que je médite
 
@@ -60,6 +62,8 @@ Je sens l'esprit du félin m'envahir
 Mes griffes gravent les couleurs de l'Empire
 
 Plus grand que celui d'Alexandre dont je suis le défenseur
+
+## choeur
 
 L'École du micro d'argent
 
@@ -126,3 +130,27 @@ Vaillant praticien des arts martiens
 Délégué pour mettre un terme à ces horreurs
 
 Tel est mon labeur, tu sais de qui je défends l'honneur
+
+## choeur
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
+
+Je représente
+
+L'École du micro d'argent
+
+L'École du micro d'argent
